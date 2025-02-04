@@ -1,4 +1,4 @@
-package Change_Your_Password_Functionality;
+package change_your_password_functionality;
 
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
