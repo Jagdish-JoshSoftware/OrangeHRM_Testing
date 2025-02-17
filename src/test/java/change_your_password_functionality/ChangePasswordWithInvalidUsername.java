@@ -23,7 +23,7 @@ public class ChangePasswordWithInvalidUsername
 
 		driver.findElement(By.name("username")).sendKeys("jaggu_bandar");
 		driver.findElement(By.cssSelector("[class='oxd-button oxd-button--large oxd-button--secondary orangehrm-forgot"
-				+ "-password-button orangehrm-forgot-password-button--reset']")).click();
+		+ "-password-button orangehrm-forgot-password-button--reset']")).click();
 		
 	    
 		
